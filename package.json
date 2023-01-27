@@ -1,0 +1,24 @@
+{
+  "name": "elagabalus",
+  "version": "1.0.0",
+  "description": "A discord bot for the Enigma of Secret Histories",
+  "main": "dist/index.js",
+  "repository": "git@github.com:KatTheFox/elagabalus.git",
+  "author": "Katrina Renarde <katthefoxmaid@gmail.com>",
+  "license": "GPL-3.0-only",
+  "private": false,
+  "scripts": {
+    "prepare":"husky install",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
+    "discord.js": "^14.7.1",
+    "husky": "^8.0.3",
+    "isaacscript-lint": "^4.8.0",
+    "isaacscript-tsconfig": "^3.0.2",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {}
+}
