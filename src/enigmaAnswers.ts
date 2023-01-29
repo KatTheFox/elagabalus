@@ -126,6 +126,13 @@ export const EnigmaImages = new Map<
     },
   ],
   [
+    EnigmaDegrees.FE5b,
+    {
+      full: "https://imgur.com/xF04tvP.jpg",
+      overlay: "https://imgur.com/L98xXGJ.jpg",
+    },
+  ],
+  [
     EnigmaDegrees.FE6,
     {
       full: "https://imgur.com/dEA3p6A.jpg",
@@ -393,6 +400,13 @@ export const EnigmaImages = new Map<
   ],
   [
     EnigmaDegrees.HE8,
+    {
+      full: "https://imgur.com/NjgJDs7.jpg",
+      overlay: "https://imgur.com/bHeQ3Ho.jpg",
+    },
+  ],
+  [
+    EnigmaDegrees.HE8b,
     {
       full: "https://imgur.com/NjgJDs7.jpg",
       overlay: "https://imgur.com/bHeQ3Ho.jpg",
@@ -685,6 +699,10 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.FE6,
+    "Along the dunes by the skeleton abbey, blue-silver, black-steel.\n\n[Dr Hengerst Department of English and Philology University College of Swansea Singleton Abbey Mumbles Road Sketty Swansea]\n\nYou've achieved the sixth degree, 'flower', of the FE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+  ],
+  [
+    EnigmaDegrees.FE6a,
     "Along the dunes by the skeleton abbey, blue-silver, black-steel.\n\n[Dr Hengerst Department of English and Philology University College of Swansea Singleton Abbey Mumbles Road Sketty Swansea]\n\nYou've achieved the sixth degree, 'flower', of the FE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
@@ -1110,21 +1128,16 @@ export const enigmaTitles: Map<EnigmaDegrees, string> = new Map<
   [EnigmaDegrees.FO6, "Lenten Rose"],
   [EnigmaDegrees.FO7, "Aunt Mopsy"],
 ]);
-export function enigmaEmbed(degree: EnigmaDegrees): EmbedBuilder[] | undefined {
-  try {
-    return [
-      new EmbedBuilder()
-        .setTitle(enigmaTitles.get(degree)!)
-        .setDescription(EnigmaText.get(degree)!),
-      new EmbedBuilder()
-        .setImage(EnigmaImages.get(degree)!.full)
-        .setURL("https://weatherfactory.biz/enigma"),
-      new EmbedBuilder()
-        .setImage(EnigmaImages.get(degree)!.overlay)
-        .setURL("https://weatherfactory.biz/enigma"),
-    ];
-  } catch (e) {
-    console.error(e);
-    return;
-  }
+export function enigmaEmbed(degree: EnigmaDegrees): EmbedBuilder[] {
+  return [
+    new EmbedBuilder()
+      .setTitle(enigmaTitles.get(degree)!)
+      .setDescription(EnigmaText.get(degree)!),
+    new EmbedBuilder()
+      .setImage(EnigmaImages.get(degree)!.full)
+      .setURL("https://weatherfactory.biz/enigma"),
+    new EmbedBuilder()
+      .setImage(EnigmaImages.get(degree)!.overlay)
+      .setURL("https://weatherfactory.biz/enigma"),
+  ];
 }
