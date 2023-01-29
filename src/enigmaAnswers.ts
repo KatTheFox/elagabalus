@@ -140,6 +140,13 @@ export const EnigmaImages = new Map<
     },
   ],
   [
+    EnigmaDegrees.FE6a,
+    {
+      full: "https://imgur.com/dEA3p6A.jpg",
+      overlay: "https://imgur.com/KlCQgCk.jpg",
+    },
+  ],
+  [
     EnigmaDegrees.FE7,
     {
       full: "https://imgur.com/5BRwuN6.jpg",
