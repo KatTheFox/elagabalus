@@ -11,7 +11,10 @@ export const enigma = {
     )
     .setDescription("Check an enigma answer."),
   async execute(interaction: CommandInteraction) {
-    let answer = interaction.options.get("answer")?.value?.toString();
+    let answer = interaction.options
+      .get("answer")
+      ?.value?.toString()
+      .toLocaleLowerCase();
     if (answer == undefined) {
       console.error("no value provided for answer somehow");
       return;
