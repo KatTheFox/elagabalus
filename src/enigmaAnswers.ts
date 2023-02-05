@@ -706,19 +706,19 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.FE6,
-    "Along the dunes by the skeleton abbey, blue-silver, black-steel.\n\n[Dr Hengerst Department of English and Philology University College of Swansea Singleton Abbey Mumbles Road Sketty Swansea]\n\nYou've achieved the sixth degree, 'flower', of the FE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Along the dunes by the skeleton abbey, blue-silver, black-steel.\n\n[Dr Hengerst Department of English and Philology University College of Swansea Singleton Abbey Mumbles Road Sketty Swansea]\n\nYou've achieved the sixth degree, 'flower', of the FEATHER direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.FE6a,
-    "Along the dunes by the skeleton abbey, blue-silver, black-steel.\n\n[Dr Hengerst Department of English and Philology University College of Swansea Singleton Abbey Mumbles Road Sketty Swansea]\n\nYou've achieved the sixth degree, 'flower', of the FE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Along the dunes by the skeleton abbey, blue-silver, black-steel.\n\n[Dr Hengerst Department of English and Philology University College of Swansea Singleton Abbey Mumbles Road Sketty Swansea]\n\nYou've achieved the sixth degree, 'flower', of the FEATHER direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.FE7,
-    "ST RHONWEN TRUST: a charitable trust established in 1922 for the advancement of education, chiefly through scholarships for promising young talents…\n\n[Coseley never forgave Husher, but at last he respected him.]\n\nYou've achieved the seventh degree, 'protectress', of the FE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "ST RHONWEN TRUST: a charitable trust established in 1922 for the advancement of education, chiefly through scholarships for promising young talents…\n\n[Coseley never forgave Husher, but at last he respected him.]\n\nYou've achieved the seventh degree, 'protectress', of the FEATHER direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.FE8,
-    "Techniques for perception and analysis which permit invidious and apocalyptic conclusions. Probably the most assiduously suppressed book in history. The entire run was destroyed – even the presses were melted and dispersed – but the manuscript edition has survived.\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'wise', of the FE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Techniques for perception and analysis which permit invidious and apocalyptic conclusions. Probably the most assiduously suppressed book in history. The entire run was destroyed – even the presses were melted and dispersed – but the manuscript edition has survived.\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'wise', of the FEATHER direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.SC1,
@@ -742,15 +742,15 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.SC6,
-    "Power-plucked from sacred soil where old blood was shed. Shadow, then snow.\n\n[The King of the World made his dedication to the Evening Star at the Gate of Gods. She lies long in the land of the Lionsmith’s Labyrinth.]\n\n\n\nYou've achieved the sixth degree, 'flower', of the SC direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Power-plucked from sacred soil where old blood was shed. Shadow, then snow.\n\n[The King of the World made his dedication to the Evening Star at the Gate of Gods. She lies long in the land of the Lionsmith’s Labyrinth.]\n\n\n\nYou've achieved the sixth degree, 'flower', of the SCALE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.SC7,
-    "“The Khusgai that we slew. On their standard they bore a silver hand. We took it as a trophy and it graces now the standard of my regiment. I still write that – I will not strike it out – but of course I cannot no longer claim that honour. It graces now the standard of the Poona Horse. If you ask to see it I think they will show it to you – if you use Malcolmson’s name and not mine. It is older than the regiment – as old I think as England. But no older. There is a lesson in it. Greatest among the powers who illuminate is one called Watchman. He it is who says ‘Mercy is found only in shadow.’ But he does not say that mercy is nowhere found; and shadows lie long at the Labyrinth of Lions.”\n\n[A sleeping gentleman and a solar majuscule.]\n\n\n\nYou've achieved the seventh degree, 'protectress', of the SC direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "“The Khusgai that we slew. On their standard they bore a silver hand. We took it as a trophy and it graces now the standard of my regiment. I still write that – I will not strike it out – but of course I cannot no longer claim that honour. It graces now the standard of the Poona Horse. If you ask to see it I think they will show it to you – if you use Malcolmson’s name and not mine. It is older than the regiment – as old I think as England. But no older. There is a lesson in it. Greatest among the powers who illuminate is one called Watchman. He it is who says ‘Mercy is found only in shadow.’ But he does not say that mercy is nowhere found; and shadows lie long at the Labyrinth of Lions.”\n\n[A sleeping gentleman and a solar majuscule.]\n\n\n\nYou've achieved the seventh degree, 'protectress', of the SCALE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.SC8,
-    "Beneath the Church of the Holy Belt in Emesa/Homs, there is, as legend relates, a secret room which was also the first church, consecrated (in 59) – perhaps as a Christian shrine by Paul the Apostle, perhaps as an Invictine shrine by Saul the Illuminated. There in a sarcophagus of black corundum lies Elagabalus, accursed of Janus, neither Long nor mortal, neither man nor woman, neither real nor imagined. On his light-suffused skin is made manifest the Sun-in-Splendour’s grand design… or a monstrous lie.\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'wise', of the SC direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Beneath the Church of the Holy Belt in Emesa/Homs, there is, as legend relates, a secret room which was also the first church, consecrated (in 59) – perhaps as a Christian shrine by Paul the Apostle, perhaps as an Invictine shrine by Saul the Illuminated. There in a sarcophagus of black corundum lies Elagabalus, accursed of Janus, neither Long nor mortal, neither man nor woman, neither real nor imagined. On his light-suffused skin is made manifest the Sun-in-Splendour’s grand design… or a monstrous lie.\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'wise', of the SCALE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.KN1,
@@ -778,15 +778,15 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.BL6,
-    "The Serapeum has its black tea, the Yeshiva its healing tisanes, but the Grove dries their own preparations.\n\n[Eagle-harried, eagle-born, nectar’s heart, blood’s fair fount. Later her name is fitting.]\n\nYou've achieved the sixth degree, 'flower', of the BL direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "The Serapeum has its black tea, the Yeshiva its healing tisanes, but the Grove dries their own preparations.\n\n[Eagle-harried, eagle-born, nectar’s heart, blood’s fair fount. Later her name is fitting.]\n\nYou've achieved the sixth degree, 'flower', of the BLOOD direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.BL7,
-    "A Lovely who consumes an Ivory becomes an Ivory. A Lovely who consumes a Thirstly becomes a Thirstly. A Lovely who consumes a Name of another Hour might take its place. An incident where a Lovely consumes a Name of the Crowned Growth was described in some detail by Malskær in ‘The Intimations of Skin’, but Malskær did not record the name or the final condition of the consumption’s outcome.\n\n[There had to be a first time. We can learn from it. The Writer on the Walls can begin it, but only if he is suitably hybridised with the doctor’s inception.]\n\nYou've achieved the seventh degree, 'protectress', of the BL direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "A Lovely who consumes an Ivory becomes an Ivory. A Lovely who consumes a Thirstly becomes a Thirstly. A Lovely who consumes a Name of another Hour might take its place. An incident where a Lovely consumes a Name of the Crowned Growth was described in some detail by Malskær in ‘The Intimations of Skin’, but Malskær did not record the name or the final condition of the consumption’s outcome.\n\n[There had to be a first time. We can learn from it. The Writer on the Walls can begin it, but only if he is suitably hybridised with the doctor’s inception.]\n\nYou've achieved the seventh degree, 'protectress', of the BLOOD direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.BL8,
-    "What is this? A tufted fossil of silken fibre, big as a child. Something consumed, and something was consumed. If we interpret its interweavings, we might understand.\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the BL direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "What is this? A tufted fossil of silken fibre, big as a child. Something consumed, and something was consumed. If we interpret its interweavings, we might understand.\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the BLOOD direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.HE1,
@@ -810,15 +810,15 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.HE6,
-    "There’s always a rebirth. We can’t do anything much about that.\n\n[SANCTA CAECILIA ORA PRO NOBIS PEREGRINIS NUNC ET IN HORA TRANSITUS NOSTRI]\n\nYou've achieved the sixth degree, 'flower', of the HE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "There’s always a rebirth. We can’t do anything much about that.\n\n[SANCTA CAECILIA ORA PRO NOBIS PEREGRINIS NUNC ET IN HORA TRANSITUS NOSTRI]\n\nYou've achieved the sixth degree, 'flower', of the HEART direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.HE7,
-    "No other Maid loves music so. In older texts she has been called Caelia the Elagabaline. Perhaps she was his daughter? Perhaps Tryphon’s sister? Perhaps, like the Watchman himself, she is like a shadow cast by two candles.\n\n[There is a History where Alexander defeated first the Great Knot of Sabazos, and then the King of Kings. There is another History where, instead, he learnt from them. How many more? If we curl our hands into the correct shapes, we may yet understand. One of each, precious of the moon and of the sea.]\n\nYou've achieved the seventh degree, 'protectress', of the HE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "No other Maid loves music so. In older texts she has been called Caelia the Elagabaline. Perhaps she was his daughter? Perhaps Tryphon’s sister? Perhaps, like the Watchman himself, she is like a shadow cast by two candles.\n\n[There is a History where Alexander defeated first the Great Knot of Sabazos, and then the King of Kings. There is another History where, instead, he learnt from them. How many more? If we curl our hands into the correct shapes, we may yet understand. One of each, precious of the moon and of the sea.]\n\nYou've achieved the seventh degree, 'protectress', of the HEART direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.HE8,
-    "A calligraphic manual of Ramsund which employs as exemplar-text Farid ud-Din’s ‘Conference of the Birds’. Its commentary, illustrations and interleavings carry revelations never intended in the original.\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the HE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "A calligraphic manual of Ramsund which employs as exemplar-text Farid ud-Din’s ‘Conference of the Birds’. Its commentary, illustrations and interleavings carry revelations never intended in the original.\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the HEART direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.SK1,
@@ -842,15 +842,11 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.SK6,
-    "Dioscorides would have been permitted to enter. There’s no doubt of that.\n\n[Stronger and sharper than bronze Fiercer than mere amazons Tempted by feet She tried to be sweet But she hated the song of the swans]\n\nYou've achieved the sixth degree, 'flower', of the SK direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Dioscorides would have been permitted to enter. There’s no doubt of that.\n\n[Stronger and sharper than bronze Fiercer than mere amazons Tempted by feet She tried to be sweet But she hated the song of the swans]\n\nYou've achieved the sixth degree, 'flower', of the SKY direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.SK7,
-    "“The Madrugad and the Witch-and-Sister are not counted among the Chancel, but they are more closely associated than most. And the Madrugad has been known to send her huntress after Hours-that-may; while the Witch-and-Sister’s adoption of renegade Names suggests certain permitted latitude. To each their own. You might call this heresy. I call it friendly gossip.”\n\n[The Witch of Lagash is best known for her paintings, and for the lively ‘In the Mountains…’ But she also wrote two more sombre, potent volumes which were in many respect each other’s mirrors.]\n\nYou've achieved the seventh degree, 'protectress', of the SK direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
-  ],
-  [
-    EnigmaDegrees.SK8,
-    "???\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the SK direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "“The Madrugad and the Witch-and-Sister are not counted among the Chancel, but they are more closely associated than most. And the Madrugad has been known to send her huntress after Hours-that-may; while the Witch-and-Sister’s adoption of renegade Names suggests certain permitted latitude. To each their own. You might call this heresy. I call it friendly gossip.”\n\n[The Witch of Lagash is best known for her paintings, and for the lively ‘In the Mountains…’ But she also wrote two more sombre, potent volumes which were in many respect each other’s mirrors.]\n\nYou've achieved the seventh degree, 'protectress', of the SKY direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.RO1,
@@ -874,15 +870,15 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.RO6,
-    "In Alexandria, where the white night-flowers shed their scent, you’re most likely to find entrances to the Serapeum. But it’s never very likely.\n\n[The Isle that is Veiled, the Scar that Soothes.]\n\nYou've achieved the sixth degree, 'flower', of the RO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "In Alexandria, where the white night-flowers shed their scent, you’re most likely to find entrances to the Serapeum. But it’s never very likely.\n\n[The Isle that is Veiled, the Scar that Soothes.]\n\nYou've achieved the sixth degree, 'flower', of the ROSE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.RO7,
-    "“Was Eskhara-Meligounis once a Name of the Twins? Certainly it would explain why the Twins scraped the barrel so for the Names they own today.”\n\n[There’s a clouded but refulgent truth in these images – from the times before the Sun was divided. One day soon you’ll understand it..]\n\nYou've achieved the seventh degree, 'protectress', of the RO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "“Was Eskhara-Meligounis once a Name of the Twins? Certainly it would explain why the Twins scraped the barrel so for the Names they own today.”\n\n[There’s a clouded but refulgent truth in these images – from the times before the Sun was divided. One day soon you’ll understand it..]\n\nYou've achieved the seventh degree, 'protectress', of the ROSE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.RO8,
-    "Set down with reverence before the Intercalate, by one who understood. Glory.\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the RO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Set down with reverence before the Intercalate, by one who understood. Glory.\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the ROSE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.FO1,
@@ -906,15 +902,11 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.FO6,
-    "Winter turns her head until we see spring’s face.\n\n[Once in the Wood we call a visit. Twice in the Wood we call a journey. Thrice, we call coming home.]\n\nYou've achieved the sixth degree, 'flower', of the FO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Winter turns her head until we see spring’s face.\n\n[Once in the Wood we call a visit. Twice in the Wood we call a journey. Thrice, we call coming home.]\n\nYou've achieved the sixth degree, 'flower', of the FORGE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.FO7,
-    "Aunt Mopsy c/o Osier House Publishing 14 Plover Street Kerisham G.B.\n\n[The black-eared hound knew well its taste, but never sought it. High it fell in the eagle-scarred place. Honestly, if you’re ever inclined to wait for more clues, wait for more clues for this.]\n\nYou've achieved the seventh degree, 'protectress', of the FO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
-  ],
-  [
-    EnigmaDegrees.FO8,
-    "???\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the FO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Aunt Mopsy c/o Osier House Publishing 14 Plover Street Kerisham G.B.\n\n[The black-eared hound knew well its taste, but never sought it. High it fell in the eagle-scarred place. Honestly, if you’re ever inclined to wait for more clues, wait for more clues for this.]\n\nYou've achieved the seventh degree, 'protectress', of the FORGE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.MO1,
@@ -938,15 +930,15 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.MO6,
-    "There are other modes than ours\n\n[vi. ‘A Child’s Treasury of Golden Afternoons’, Jacob Gristwood. Clearly I am aware of the Standing Incineration Order on this work but this may be the only copy still in existence and the skolekosophic resources available to the Branch are frankly embarrassing in their paucity. After a detailed examination, not to mention discussion with my very good friend the Dottore, I have determined that it is much too valuable to be destroyed. Retained.]\n\nYou've achieved the sixth degree, 'flower', of the MO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "There are other modes than ours\n\n[vi. ‘A Child’s Treasury of Golden Afternoons’, Jacob Gristwood. Clearly I am aware of the Standing Incineration Order on this work but this may be the only copy still in existence and the skolekosophic resources available to the Branch are frankly embarrassing in their paucity. After a detailed examination, not to mention discussion with my very good friend the Dottore, I have determined that it is much too valuable to be destroyed. Retained.]\n\nYou've achieved the sixth degree, 'flower', of the MOON direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.MO7,
-    "“If you are dead but ‘uplifted by green’, that’s the Ring-Yew’s blessing. (The Crowned Growth offers a similar but nastier benefit.) This is how Burgeoning Risen come about, but there are different degrees of sentience and freedom depending on which growths are involved. The consciousness of one ‘uplifted by green’ is always greatly altered, though – they never really seem like the same person. They may have dregs of their original souls, but these are often replaced by something else.” – Detective-Ostiary Wheelock, An Exorcist’s Field Manual\n\n[This is a proposal we would consider only in the most extreme circumstances. Where is the manner of the vein?]\n\nYou've achieved the seventh degree, 'protectress', of the MO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "“If you are dead but ‘uplifted by green’, that’s the Ring-Yew’s blessing. (The Crowned Growth offers a similar but nastier benefit.) This is how Burgeoning Risen come about, but there are different degrees of sentience and freedom depending on which growths are involved. The consciousness of one ‘uplifted by green’ is always greatly altered, though – they never really seem like the same person. They may have dregs of their original souls, but these are often replaced by something else.” – Detective-Ostiary Wheelock, An Exorcist’s Field Manual\n\n[This is a proposal we would consider only in the most extreme circumstances. Where is the manner of the vein?]\n\nYou've achieved the seventh degree, 'protectress', of the MOON direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.MO8,
-    "Once upon a time, a very bad man encoded very bad secrets into the charming illustrations of a book of charming stories. Wake the pictures, and you will see.\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'wise', of the MO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Once upon a time, a very bad man encoded very bad secrets into the charming illustrations of a book of charming stories. Wake the pictures, and you will see.\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'wise', of the MOON direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.KN2,
@@ -966,19 +958,27 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.KN6,
-    "The Princes favor this flower.\n\n[Fair to Friends, Horned to Foes, to Day-Flyers Scaled, by Hawthorn Homed.]\n\nYou've achieved the sixth degree, 'flower', of the KN direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "The Princes favor this flower.\n\n[Fair to Friends, Horned to Foes, to Day-Flyers Scaled, by Hawthorn Homed.]\n\nYou've achieved the sixth degree, 'flower', of the KNOCK direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.KN7,
-    "“There are strict limits on the number of Hours, Names, Long and Know. Strict limits. Seven Names for each Hour, seven Long for each Name, seven Know for each Long. Since there can only ever be exactly thirty Hours, we can do the sums and work it all out perfectly. Except, no matter which way I do the sums, it never comes to thirty Hours. If I include the ones in Nowhere, it’s twenty-eight. If I’m a bit more speculative, it’s thirty-four. The Chancel has its accounted thirty, Xenodice told me once, but Xenodice doesn’t share her mistress’ secrets.”\n\n[“The Cross died not but passed within.” Strathcoyne knew, and Strathcoyne learnt almost too late. Gore’s stories might have shown the way, but Gore looked too deep, past the truth.]\n\nYou've achieved the seventh degree, 'protectress', of the KN direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "“There are strict limits on the number of Hours, Names, Long and Know. Strict limits. Seven Names for each Hour, seven Long for each Name, seven Know for each Long. Since there can only ever be exactly thirty Hours, we can do the sums and work it all out perfectly. Except, no matter which way I do the sums, it never comes to thirty Hours. If I include the ones in Nowhere, it’s twenty-eight. If I’m a bit more speculative, it’s thirty-four. The Chancel has its accounted thirty, Xenodice told me once, but Xenodice doesn’t share her mistress’ secrets.”\n\n[“The Cross died not but passed within.” Strathcoyne knew, and Strathcoyne learnt almost too late. Gore’s stories might have shown the way, but Gore looked too deep, past the truth.]\n\nYou've achieved the seventh degree, 'protectress', of the KNOCK direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.KN8,
-    "The histories of the Carapace Cross, as recorded on the walls of the Mansus and transcribed into a book of ninety-nine pages by one known only as ‘cc’. This book does not exist, but it can be read in sleep, if one pulverizes and then consumes a hallowed diamond. Certain fragments do exist, when jotted down on waking.\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the KN direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "The histories of the Carapace Cross, as recorded on the walls of the Mansus and transcribed into a book of ninety-nine pages by one known only as ‘cc’. This book does not exist, but it can be read in sleep, if one pulverizes and then consumes a hallowed diamond. Certain fragments do exist, when jotted down on waking.\n\n[Not until there are enough here. But look around.]\n\nYou've achieved the eighth degree, 'wise', of the KNOCK direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.HE8b,
     "It is as old I think as England. But no older.\n\n [[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, \"otherwise\", of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+  ],
+  [
+    EnigmaDegrees.FO8,
+    "Who gave us fire? Who gave us steel? In this sky-cast wist-stone, we see the long evidence for both.\n\n[[Not until there are enough here. But look around.]]n\nYou've achieved the eighth degree, \"wise\", of the FO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+  ],
+  [
+    EnigmaDegrees.SK8,
+    "Each page of this book except the last bears a single sign... but the final page is empty.\n\n[[Not until there are enough here. But look around.]]n\nYou've achieved the eighth degree, \"wise\", of the SKY direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
 ]);
 export const enigmaAnswers = new Map<string, EnigmaDegrees>([
@@ -1055,6 +1055,8 @@ export const enigmaAnswers = new Map<string, EnigmaDegrees>([
   ["fucine-medea", EnigmaDegrees.FO5],
   ["medea-lenten-rose", EnigmaDegrees.FO6],
   ["lenten-rose-aunt-mopsy", EnigmaDegrees.FO7],
+  ["aunt-mopsy-amiranis-beteli", EnigmaDegrees.FO8],
+  ["skadi-the-sky-in-the-scar", EnigmaDegrees.SK8],
 ]);
 
 export const enigmaTitles: Map<EnigmaDegrees, string> = new Map<
@@ -1134,6 +1136,8 @@ export const enigmaTitles: Map<EnigmaDegrees, string> = new Map<
   [EnigmaDegrees.FO5, "Medea"],
   [EnigmaDegrees.FO6, "Lenten Rose"],
   [EnigmaDegrees.FO7, "Aunt Mopsy"],
+  [EnigmaDegrees.FO8, "Amiranis Beteli"],
+  [EnigmaDegrees.SK8, "The Sky In the Scar"],
 ]);
 export function enigmaEmbed(degree: EnigmaDegrees): EmbedBuilder[] {
   return [
