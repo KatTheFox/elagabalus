@@ -974,11 +974,11 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.FO8,
-    "Who gave us fire? Who gave us steel? In this sky-cast wist-stone, we see the long evidence for both.\n\n[[Not until there are enough here. But look around.]]n\nYou've achieved the eighth degree, \"wise\", of the FO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Who gave us fire? Who gave us steel? In this sky-cast wist-stone, we see the long evidence for both.\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, \"wise\", of the FO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.SK8,
-    "Each page of this book except the last bears a single sign... but the final page is empty.\n\n[[Not until there are enough here. But look around.]]n\nYou've achieved the eighth degree, \"wise\", of the SKY direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Each page of this book except the last bears a single sign... but the final page is empty.\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, \"wise\", of the SKY direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
 ]);
 export const enigmaAnswers = new Map<string, EnigmaDegrees>([
