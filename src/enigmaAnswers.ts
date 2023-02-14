@@ -771,7 +771,7 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.SC8b,
-    "[[unknown- for now, at least]]\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'otherwise', of the SCALE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "[[unknown- for now, at least]]\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'otherwise', of the SCALE (b) direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.KN1,
