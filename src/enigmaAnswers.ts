@@ -67,6 +67,7 @@ enum EnigmaDegrees {
   RO1,
   RO2,
   RO3,
+  RO3a,
   RO4,
   RO5,
   RO6,
@@ -637,6 +638,13 @@ export const EnigmaImages = new Map<
     },
   ],
   [
+    EnigmaDegrees.RO3a,
+    {
+      full: "https://imgur.com/gOcmhEH.jpg",
+      overlay: "https://imgur.com/qvHNW8p.jpg",
+    },
+  ],
+  [
     EnigmaDegrees.RO4,
     {
       full: "https://imgur.com/wd5ZNC2.jpg",
@@ -861,6 +869,10 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
     "The capacity for meaningful choice.\n\n[A tongue of bowls and rolls.]\n\nYou've achieved the third degree, 'element', of the RO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
+    EnigmaDegrees.RO3a,
+    "The capacity for meaningful choice.\n\n[A tongue of bowls and rolls.]\n\nYou've achieved the third degree, 'element', of the RO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+  ],
+  [
     EnigmaDegrees.RO4,
     "The most secret script of the innermost rites of the deep sects of the deep desert. The birth-tongue, it is claimed, of the Mother of Ants herself.\n\n[A visitor to the Serapeum of a long-noted significant absence, from a city of thundering milk.]\n\nYou've achieved the fourth degree, 'language', of the RO direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
@@ -1043,6 +1055,8 @@ export const enigmaAnswers = new Map<string, EnigmaDegrees>([
   ["invisible-serapeum", EnigmaDegrees.RO1],
   ["invisible-serapeum-horomachistry", EnigmaDegrees.RO2],
   ["horomachistry-character", EnigmaDegrees.RO3],
+  ["horomachistry-mettle", EnigmaDegrees.RO3a],
+  ["mettle-deep-mandaic", EnigmaDegrees.RO4],
   ["character-deep-mandaic", EnigmaDegrees.RO4],
   ["deep-mandaic-ibn-al-adim", EnigmaDegrees.RO5],
   ["ibn-al-adim-jasmine-sambac", EnigmaDegrees.RO6],
@@ -1124,6 +1138,7 @@ export const enigmaTitles: Map<EnigmaDegrees, string> = new Map<
   [EnigmaDegrees.RO1, "Invisible Serapeum"],
   [EnigmaDegrees.RO2, "Horomachistry"],
   [EnigmaDegrees.RO3, "Character"],
+  [EnigmaDegrees.RO3a, "Mettle"],
   [EnigmaDegrees.RO4, "Deep Mandaic"],
   [EnigmaDegrees.RO5, "Ibn Al Adim"],
   [EnigmaDegrees.RO6, "Jasmine Sambac"],
