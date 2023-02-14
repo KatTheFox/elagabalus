@@ -18,6 +18,7 @@ enum EnigmaDegrees {
   SC6,
   SC7,
   SC8,
+  SC8b,
   SC9,
   HE1,
   HE2,
@@ -219,6 +220,14 @@ export const EnigmaImages = new Map<
   ],
   [
     EnigmaDegrees.SC8,
+    {
+      full: "https://imgur.com/R8drZ80.jpg",
+      overlay: "https://imgur.com/jJCZdFB.jpg",
+    },
+  ],
+
+  [
+    EnigmaDegrees.SC8b,
     {
       full: "https://imgur.com/R8drZ80.jpg",
       overlay: "https://imgur.com/jJCZdFB.jpg",
@@ -761,6 +770,10 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
     "Beneath the Church of the Holy Belt in Emesa/Homs, there is, as legend relates, a secret room which was also the first church, consecrated (in 59) – perhaps as a Christian shrine by Paul the Apostle, perhaps as an Invictine shrine by Saul the Illuminated. There in a sarcophagus of black corundum lies Elagabalus, accursed of Janus, neither Long nor mortal, neither man nor woman, neither real nor imagined. On his light-suffused skin is made manifest the Sun-in-Splendour’s grand design… or a monstrous lie.\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'wise', of the SCALE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
+    EnigmaDegrees.SC8b,
+    "[[unknown- for now, at least]]\n\n[[Not until there are enough here. But look around.]]\n\nYou've achieved the eighth degree, 'otherwise', of the SCALE direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+  ],
+  [
     EnigmaDegrees.KN1,
     "The Great Hooded Princes do not reveal their library’s location. Those few permitted entry will say only that it’s ‘west of the Lion, and north of Victory’. It contains knowledge on the ways and foundations of the Mansus; on the Fifth History, and above all on Knock lore. The Princes do not say ‘Knowledge is Power’, but rather, ‘Power is Knowledge.’ Relationships between the Princes and the Mother of Ants are strained, and the Tomb lies under the hand of the Horned Axe.\n\n[After this place, a suitable wisdom.]\n\n\n\nYou've achieved the first degree, 'library', of the KN direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
@@ -1012,6 +1025,7 @@ export const enigmaAnswers = new Map<string, EnigmaDegrees>([
   ["everett-lapidoth-moly", EnigmaDegrees.SC6],
   ["moly-lamma", EnigmaDegrees.SC7],
   ["lamma-the-man-with-the-plan", EnigmaDegrees.SC8],
+  ["lamma-uncial-elagabaline", EnigmaDegrees.SC8b],
   ["tomb-of-lies", EnigmaDegrees.KN1],
   ["tomb-of-lies-nyctodromy", EnigmaDegrees.KN2],
   ["nyctodromy-fet", EnigmaDegrees.KN3],
@@ -1095,6 +1109,7 @@ export const enigmaTitles: Map<EnigmaDegrees, string> = new Map<
   [EnigmaDegrees.SC6, "Moly"],
   [EnigmaDegrees.SC7, "Lamma"],
   [EnigmaDegrees.SC8, "The Man With The Plan"],
+  [EnigmaDegrees.SC8b, "Uncial Elagabaline"],
   [EnigmaDegrees.KN1, "Tomb Of Lies"],
   [EnigmaDegrees.KN2, "Nyctodromy"],
   [EnigmaDegrees.KN3, "Fet"],
