@@ -743,7 +743,7 @@ export const EnigmaText = new Map<EnigmaDegrees, string>([
   ],
   [
     EnigmaDegrees.SC2,
-    "Mystical exercises to purify and illuminate the self and its surroundings. Relic Rites of the Unconquered Sun, mirrors and light sources, the Glory.\n\n[We have all benifited from the Glory's gifts.]\n\nYou've achieved the second degree, 'wisdom', of the SC direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
+    "Mystical exercises to purify and illuminate the self and its surroundings. Relic Rites of the Unconquered Sun, mirrors and light sources, the Glory.\n\n[We have all benefited from the Glory's gifts.]\n\nYou've achieved the second degree, 'wisdom', of the SC direction of the Enigma of Secret Histories. You're entitled to use this badge wherever you like, either the full version or the transparent overlay.",
   ],
   [
     EnigmaDegrees.SC3,
