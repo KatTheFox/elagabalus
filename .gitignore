@@ -1,7 +1,5 @@
-
-ligeia.service
-startligeia.sh
 node_modules
 src/config.json
 dist/
 log.txt
+package-lock.json

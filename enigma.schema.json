@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/KatTheFox/ligeia/blob/main/enigma.schema.json",
+  "title": "Ligeia Custom Enigma",
+  "type": "object",
+  "properties": {
+    "enigmaid": {
+      "description": "Which Enigma is this? Are you Chancel or Calyptra, or neither?",
+      "type": "string"
+    },
+    "degrees": {
+      "description": "The meat of your Enigma. Store all your degrees here.",
+      "type": "array",
+      "items":{
+        "type":"object",
+        "properties": {
+          "id":{
+            "type":"string"
+          },
+          "answer":{
+            "type":"string"
+          },
+          "title":{
+            "type":"string"
+          },
+          "text":{
+            "type":"string"
+          },
+          "image1":{
+            "type":"string"
+          },
+          "image2":{
+            "type":"string"
+          }
+        }
+      }
+    
+    }
+  }
+}
