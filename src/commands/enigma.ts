@@ -1,6 +1,7 @@
 import { CommandInteraction, SlashCommandBuilder } from "discord.js";
-import { enigmaAnswers, enigmaEmbed } from "../enigmaAnswers";
-export const enigma = {
+import { classicEnigmaEmbed, checkAnswer } from "../enigmaAnswers";
+import { classicEnigma } from "../enigmaSources/classicenigma";
+export const enigmaCommand = {
   data: new SlashCommandBuilder()
     .setName("enigma")
     .addStringOption((option) =>
@@ -9,7 +10,7 @@ export const enigma = {
         .setDescription("What you think is the answer.")
         .setRequired(true)
     )
-    .setDescription("Check an enigma answer."),
+    .setDescription("Check an Enigma of Secret Histories answer."),
   async execute(interaction: CommandInteraction) {
     let answer = interaction.options
       .get("answer")
@@ -20,9 +21,12 @@ export const enigma = {
       return;
     }
 
-    let response = enigmaAnswers.get(answer);
+    let response = checkAnswer(classicEnigma, answer);
     if (response != undefined)
-      interaction.reply({ embeds: enigmaEmbed(response), ephemeral: true });
+      interaction.reply({
+        embeds: classicEnigmaEmbed(response),
+        ephemeral: true,
+      });
     else
       interaction.reply({
         content: "That's not an answer. Keep on looking...",

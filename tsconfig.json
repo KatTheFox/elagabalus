@@ -2,7 +2,8 @@
   "extends": "isaacscript-tsconfig/tsconfig.node.json",
   "compilerOptions": {
     "rootDir": "./src",
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "resolveJsonModule": true
   },
   "include": ["./src/**/*.ts"]
 }

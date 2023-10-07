@@ -1,7 +1,5 @@
-declare type Enigma = {
-  id: string;
-  degrees: EnigmaDegree[];
-};
+declare type Enigma = EnigmaDegree[];
+
 declare type EnigmaDegree = {
   id: string;
   answer: string;

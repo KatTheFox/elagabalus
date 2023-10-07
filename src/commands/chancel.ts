@@ -1,16 +1,16 @@
 import { CommandInteraction, SlashCommandBuilder } from "discord.js";
 import { classicEnigmaEmbed, checkAnswer } from "../enigmaAnswers";
-import { calyptraEnigma } from "../enigmaSources/calyptraEnigma";
-export const calyptraCommand = {
+import { chancelEnigma } from "../enigmaSources/chancelEnigma";
+export const chancelCommand = {
   data: new SlashCommandBuilder()
-    .setName("calyptra")
+    .setName("chancel")
     .addStringOption((option) =>
       option
         .setName("answer")
         .setDescription("What you think is the answer.")
         .setRequired(true)
     )
-    .setDescription("Check a Calyptra Enigma answer."),
+    .setDescription("Check a Chancel Enigma answer."),
   async execute(interaction: CommandInteraction) {
     let answer = interaction.options
       .get("answer")
@@ -21,7 +21,7 @@ export const calyptraCommand = {
       return;
     }
 
-    let response = checkAnswer(calyptraEnigma, answer);
+    let response = checkAnswer(chancelEnigma, answer);
     if (response != undefined)
       interaction.reply({
         embeds: classicEnigmaEmbed(response),
