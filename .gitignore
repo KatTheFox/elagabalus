@@ -1,5 +1,7 @@
 node_modules
 src/config.json
+src/config_ligeia.json
+src/config_three.json
 dist/
 log.txt
 package-lock.json

@@ -1,5 +1,5 @@
 import { CommandInteraction, SlashCommandBuilder } from "discord.js";
-import { classicEnigmaEmbed, checkAnswer } from "../enigmaAnswers";
+import { enigmaEmbed, checkAnswer } from "../enigmaAnswers";
 import { chancelEnigma } from "../enigmaSources/chancelEnigma";
 export const chancelCommand = {
   data: new SlashCommandBuilder()
@@ -24,7 +24,7 @@ export const chancelCommand = {
     let response = checkAnswer(chancelEnigma, answer);
     if (response != undefined)
       interaction.reply({
-        embeds: classicEnigmaEmbed(response),
+        embeds: enigmaEmbed(response),
         ephemeral: true,
       });
     else
