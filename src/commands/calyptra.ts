@@ -1,6 +1,8 @@
 import { CommandInteraction, SlashCommandBuilder } from "discord.js";
 import { enigmaEmbed, checkAnswer } from "../enigmaAnswers";
 import { calyptraEnigma } from "../enigmaSources/calyptraEnigma";
+import { solveDegree } from "../solveDegree";
+import { tokens } from "../config.json";
 export const calyptraCommand = {
   data: new SlashCommandBuilder()
     .setName("calyptra")
@@ -22,12 +24,18 @@ export const calyptraCommand = {
     }
 
     let response = checkAnswer(calyptraEnigma, answer);
-    if (response != undefined)
+    if (response != undefined) {
+      solveDegree(
+        response,
+        "Calyptra Enigma",
+        interaction,
+        tokens.channels.calyptraAnnounce
+      );
       interaction.reply({
         embeds: enigmaEmbed(response),
         ephemeral: true,
       });
-    else
+    } else
       interaction.reply({
         content: "That's not an answer. Keep on looking...",
         ephemeral: true,

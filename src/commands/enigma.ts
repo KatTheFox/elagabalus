@@ -1,6 +1,8 @@
 import { CommandInteraction, SlashCommandBuilder } from "discord.js";
 import { enigmaEmbed, checkAnswer } from "../enigmaAnswers";
 import { classicEnigma } from "../enigmaSources/classicenigma";
+import { solveDegree } from "../solveDegree";
+import { tokens } from "../config.json";
 export const enigmaCommand = {
   data: new SlashCommandBuilder()
     .setName("enigma")
@@ -22,12 +24,18 @@ export const enigmaCommand = {
     }
 
     let response = checkAnswer(classicEnigma, answer);
-    if (response != undefined)
+    if (response != undefined) {
+      solveDegree(
+        response,
+        "Enigma of Secret Histories",
+        interaction,
+        tokens.channels.classicAnnounce
+      );
       interaction.reply({
         embeds: enigmaEmbed(response),
         ephemeral: true,
       });
-    else
+    } else
       interaction.reply({
         content: "That's not an answer. Keep on looking...",
         ephemeral: true,
