@@ -28,8 +28,8 @@ export async function trySolveDegree(
     (
       await connection.query<ResultSetHeader>(
         `INSERT INTO degreestatus (id,uid,uname,timestamp) VALUES('${
-          degree.id
-        }','${interaction.user.id}','${
+          interaction.commandName
+        }.${degree.id}','${interaction.user.id}','${
           interaction.user.username
         }','${DateTime.utc().toSQL({ includeOffset: false })}+00:00')`
       )
